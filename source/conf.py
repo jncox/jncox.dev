@@ -26,6 +26,11 @@ release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 
+import os
+import sys
+import sphinx_bootstrap_theme
+import sphinx_fontawesome
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
