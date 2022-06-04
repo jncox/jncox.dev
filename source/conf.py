@@ -33,7 +33,7 @@ release = '1.0.0'
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 
-sys.path.insert(0, os.path.abspath('.'))
+
 
 import os
 import sys
