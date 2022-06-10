@@ -92,9 +92,9 @@ html_logo = "_static/vectra.png"
 
 html_favicon = "_static/favicon.ico"
 
-#html_css_files = [
-#    'custom.css',
-#]
+html_css_files = [
+    'custom.css'
+]
 
 html_sidebars = {'**': ['localtoc.html']}
 
