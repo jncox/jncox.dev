@@ -60,6 +60,12 @@ master_doc = 'index'
 
 exclude_patterns = ['build', 'Thumbs.db', '.DS_Store']
 
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
+
+# If true, `todo` and `todoList` produce output, else they produce nothing.
+todo_include_todos = True
+
 latex_elements = {
   'extraclassoptions': 'openany,oneside',
   'figure_align': 'H'
@@ -101,13 +107,18 @@ html_theme_options = {
     'navbar_title': "Hands-On Labs",
 
     # Tab name for entire site. (Default: "Site")
+    
     'navbar_site_name': "Other Labs",
 
     # Render the next and previous page links in navbar. (Default: true)
-    'navbar_sidebarrel': True,
+    
+    #'navbar_sidebarrel': True,
+    'navbar_sidebarrel': False,
 
     # Render the current pages TOC in the navbar. (Default: true)
-    'navbar_pagenav': True,
+    
+    #'navbar_pagenav': True,
+    'navbar_pagenav': False,
 
     # Tab name for the current pages TOC. (Default: "Page")
     'navbar_pagenav_name': "Lab Modules",
@@ -125,6 +136,9 @@ html_theme_options = {
     # Values: "true" (default) or "false"
     'globaltoc_includehidden': "true",
 
+    # HTML navbar class (Default: "navbar") to attach to <div> element.
+    # For black navbar, do "navbar navbar-inverse"
+    'navbar_class': "navbar-inverse",
 
     # Fix navigation bar to top of page?
     # Values: "true" (default) or "false"
