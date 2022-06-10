@@ -19,7 +19,6 @@ import sys
 import sphinx_bootstrap_theme
 import sphinx_fontawesome
 
-
 # -- Project information -----------------------------------------------------
 
 project = 'HOLs'
@@ -41,6 +40,9 @@ extensions = ['sphinx.ext.todo',
     'sphinxcontrib.fulltoc',
     'sphinx_copybutton',
     'sphinx_fontawesome']
+
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ['_templates']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
