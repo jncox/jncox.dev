@@ -5,13 +5,13 @@ name = "pypi"
 
 [packages]
 sphinx = "*"
-sphinx-bootstrap-theme = "0.8.1"
-sphinx-copybutton = "0.5.0"
-sphinx-fontawesome = "0.0.6"
-sphinxcontrib-fulltoc = "1.2.0"
+sphinx-bootstrap-theme = "*"
+sphinx-copybutton = "*"
+sphinx-fontawesome = "*"
+sphinxcontrib-fulltoc = "*"
+jinja2 = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.7"
- 
