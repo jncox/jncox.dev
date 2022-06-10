@@ -16,15 +16,14 @@
 
 import os
 import sys
-#import sphinx_bootstrap_theme
-#import sphinx_fontawesome
-sys.path.insert(0, os.path.abspath('.'))
+import sphinx_bootstrap_theme
+import sphinx_fontawesome
 
 # -- Project information -----------------------------------------------------
 
 project = 'HOLs'
 copyright = '2022, JNCOX'
-author = 'JNCOX'
+author = 'jncox'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -57,7 +56,8 @@ master_doc = 'index'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+
+exclude_patterns = ['build', 'Thumbs.db', '.DS_Store']
 
 latex_elements = {
   'extraclassoptions': 'openany,oneside',
@@ -73,9 +73,9 @@ latex_toplevel_sectioning = 'section'
 # a list of builtin themes.
 #
 #html_theme = 'alabaster'
-html_theme = 'nature'
-#html_theme = 'bootstrap'
-#html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
