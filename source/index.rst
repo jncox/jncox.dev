@@ -10,7 +10,9 @@ Welcome to HOLs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+Welcome to JNCOX.DEV Hands-On Labs (HOLs)!
 
+These labs are instructor-led sessions that introduces JNCOX.DEV Core technologies and many common management tasks.
 
 Indices and tables
 ==================
