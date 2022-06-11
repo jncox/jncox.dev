@@ -89,7 +89,8 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_static_path = ['_static']
 
 #html_logo = "_static/vectra.png"
-html_logo = "_static/vectra_logo.svg"
+html_logo = "_static/Vectra_Logo.svg"
+#html_logo = "_static/Vectra_Logo_Reverse.png"
 html_favicon = "_static/favicon.ico"
 
 #html_css_files = [
