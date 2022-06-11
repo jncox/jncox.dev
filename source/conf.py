@@ -92,9 +92,9 @@ html_logo = "_static/vectra.png"
 
 html_favicon = "_static/favicon.ico"
 
-html_css_files = [
-    'custom.css'
-]
+#html_css_files = [
+#    'custom.css'
+#]
 
 html_sidebars = {'**': ['localtoc.html']}
 
@@ -117,8 +117,8 @@ html_theme_options = {
 
     # Render the current pages TOC in the navbar. (Default: true)
     
-    'navbar_pagenav': True,
-    #'navbar_pagenav': False,
+    #'navbar_pagenav': True,
+    'navbar_pagenav': False,
 
     # Tab name for the current pages TOC. (Default: "Page")
     'navbar_pagenav_name': "Lab Modules",
