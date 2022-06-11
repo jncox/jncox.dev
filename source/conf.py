@@ -93,10 +93,6 @@ html_logo = "_static/Vectra_Logo.svg"
 #html_logo = "_static/Vectra_Logo_Reverse.png"
 html_favicon = "_static/favicon.ico"
 
-#html_css_files = [
-#    'custom.css'
-#]
-
 html_sidebars = {'**': ['localtoc.html']}
 
 html_title = ""
