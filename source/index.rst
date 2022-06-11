@@ -35,5 +35,6 @@ These labs are instructor-led sessions that introduces JNCOX.DEV Core technologi
 What's new
 ==========
 
+-  `AWS IaaS Install <https://aws-iaas-install.jncox.dev>`_
 -  `Detect for AWS <https://detect-for-aws.jncox.dev>`_
 
