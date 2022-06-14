@@ -37,5 +37,5 @@ What's new
 
 -  `AWS IaaS Install <https://aws-iaas-install.jncox.dev>`_
 -  `Detect for AWS <https://detect-for-aws.jncox.dev>`_
--  -  `Detect for AWS - Markdown <https://detect-for-aws-md.jncox.dev>`_
+-  `Detect for AWS - Markdown <https://detect-for-aws-md.jncox.dev>`_
 
