@@ -10,6 +10,16 @@
 
 .. raw:: html
 
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSZHPS7J38"></script>
+   <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+
+   gtag('config', 'G-JSZHPS7J38');
+   </script>`
+
    <div id="google_translate_element"></div> 
          
       <script type="text/javascript"> 
