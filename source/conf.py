@@ -39,7 +39,8 @@ extensions = ['sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinxcontrib.fulltoc',
     'sphinx_copybutton',
-    'sphinx_fontawesome']
+    'sphinx_fontawesome',
+    'myst_parser']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
