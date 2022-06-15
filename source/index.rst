@@ -1,7 +1,11 @@
+.. title:: Vectra Hands-On Labs
+
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: 
+   :name: 
+   :hidden:
 
 
 
