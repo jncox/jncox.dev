@@ -8,15 +8,6 @@
    :hidden:
 
 
-
-|
-|
-
-.. raw:: html
-
-|
-|
-
 Welcome to HOLs's documentation!
 ================================
 
