@@ -73,12 +73,12 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
 
-latex_elements = {
-  'extraclassoptions': 'openany,oneside',
-  'figure_align': 'H'
-}
+#latex_elements = {
+#  'extraclassoptions': 'openany,oneside',
+#  'figure_align': 'H'
+#}
 
-latex_toplevel_sectioning = 'section'
+#latex_toplevel_sectioning = 'section'
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -112,7 +112,7 @@ html_theme_options = {
 
     # Tab name for entire site. (Default: "Site")
     
-    'navbar_site_name': "Other Labs",
+    #'navbar_site_name': "Other Labs",
 
     # Render the next and previous page links in navbar. (Default: true)
     
@@ -125,7 +125,8 @@ html_theme_options = {
     'navbar_pagenav': False,
 
     # Tab name for the current pages TOC. (Default: "Page")
-    'navbar_pagenav_name': "Lab Modules",
+    #'navbar_pagenav_name': "Lab Modules",
+	'navbar_pagenav_name': "Page",
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
