@@ -10,6 +10,7 @@
 
 .. raw:: html
 
+   <head>
    <!-- Global site tag (gtag.js) - Google Analytics -->
    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSZHPS7J38"></script>
    <script>
@@ -18,7 +19,8 @@
    gtag('js', new Date());
 
    gtag('config', 'G-JSZHPS7J38');
-   </script>`
+   </script>
+   </head>
 
    <div id="google_translate_element"></div> 
          
