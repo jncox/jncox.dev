@@ -1,5 +1,7 @@
 .. title:: Vectra Hands-On Labs
 
+|
+|
 
 .. toctree::
    :maxdepth: 3
@@ -7,6 +9,10 @@
    :name: 
    :hidden:
 
+
+
+|
+|
 
 Welcome to HOLs's documentation!
 ================================
