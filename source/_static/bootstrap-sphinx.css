@@ -46,7 +46,8 @@ display: none;
  * https://bitbucket.org/birkenfeld/sphinx/commits/78d8ebf76b630ab4073a7328af9d91e8123b8d96
  */
 .navbar .container {
-  padding-top: 0;
+  /*padding-top: 0;*/
+  padding-top: 1;
 }
 
 /*
