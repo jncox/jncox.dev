@@ -17,7 +17,6 @@
 import os
 import sys
 import sphinx_bootstrap_theme
-import sphinxawesome-theme
 import sphinx_fontawesome
 
 # -- Project information -----------------------------------------------------
