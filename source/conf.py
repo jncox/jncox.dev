@@ -17,6 +17,7 @@
 import os
 import sys
 import sphinx_bootstrap_theme
+import sphinxawesome-theme
 import sphinx_fontawesome
 
 # -- Project information -----------------------------------------------------
@@ -86,7 +87,7 @@ todo_include_todos = True
 # a list of builtin themes.
 #
 #html_theme = 'alabaster'
-html_theme = 'sphinxawesome-theme'
+html_theme = 'sphinxawesome_theme'
 #html_theme = 'bootstrap'
 #html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
