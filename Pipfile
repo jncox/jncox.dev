@@ -11,6 +11,7 @@ sphinx-fontawesome = "*"
 sphinxcontrib-fulltoc = "*"
 jinja2 = "*"
 myst-parser = "*"
+sphinxawesome-theme = "*"
 
 [dev-packages]
 
