@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 sphinx = "*"
-sphinx-bootstrap-theme = "*"
+sphinx-bootstrap-theme = "0.6.0"
 sphinx-copybutton = "*"
 sphinx-fontawesome = "*"
 sphinxcontrib-fulltoc = "*"
